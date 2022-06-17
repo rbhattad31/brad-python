@@ -1,9 +1,14 @@
-List = [1, 3, 4, 1, 2, 2, 5, 2, 1, 7, 0, 9]
+test_list = ["welcome", "To", "welcome Back", "welcome To New World"]
 
-Empty_list = []
 
-for i in List:
-    if i not in Empty_list:
-        Empty_list.append(i)
+# using loop to iterate for each string
+test_list.sort(key=len)
+res = []
+for i, value in enumerate(test_list):
 
-print(Empty_list)
+    # concatenating all next values and checking for existence
+    if value not in ', '.join(test_list[i+ 1:]):
+        res.append(value)
+
+# printing result
+print("The reduntant list : " + str(res))

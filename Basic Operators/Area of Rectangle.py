@@ -1,5 +1,5 @@
-l = 23
-w = 2
+length = int(input(" Enter the Length: "))
+width = int(input("Enter the Width: ") )
 
-Area = l * w
+Area = length * width
 print(Area)
