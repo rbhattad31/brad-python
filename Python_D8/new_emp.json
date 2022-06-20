@@ -1,0 +1,76 @@
+{
+  "details": [
+    {
+      "EMPLOYEE_ID": "198",
+      "FIRST_NAME": "Donald",
+      "LAST_NAME": "OConnell",
+      "PHONE_NUMBER": "650.507.9833"
+    },
+    {
+      "EMPLOYEE_ID": "199",
+      "FIRST_NAME": "Douglas",
+      "LAST_NAME": "Grant",
+      "PHONE_NUMBER": "650.507.9844"
+    },
+    {
+      "EMPLOYEE_ID": "200",
+      "FIRST_NAME": "Jennifer",
+      "LAST_NAME": "Whalen",
+      "PHONE_NUMBER": "515.123.4444"
+    },
+    {
+      "EMPLOYEE_ID": "201",
+      "FIRST_NAME": "Michael",
+      "LAST_NAME": "Hartstein",
+      "PHONE_NUMBER": "515.123.5555"
+    },
+    {
+      "EMPLOYEE_ID": "202",
+      "FIRST_NAME": "Pat",
+      "LAST_NAME": "Fay",
+      "PHONE_NUMBER": "603.123.6666"
+    },
+    {
+      "EMPLOYEE_ID": "203",
+      "FIRST_NAME": "Susan",
+      "LAST_NAME": "Mavris",
+      "PHONE_NUMBER": "515.123.7777"
+    },
+    {
+      "EMPLOYEE_ID": "204",
+      "FIRST_NAME": "Hermann",
+      "LAST_NAME": "Baer",
+      "PHONE_NUMBER": "515.123.8888"
+    },
+    {
+      "EMPLOYEE_ID": "205",
+      "FIRST_NAME": "Shelley",
+      "LAST_NAME": "Higgins",
+      "PHONE_NUMBER": "515.123.8080"
+    },
+    {
+      "EMPLOYEE_ID": "206",
+      "FIRST_NAME": "William",
+      "LAST_NAME": "Gietz",
+      "PHONE_NUMBER": "515.123.8181"
+    },
+    {
+      "EMPLOYEE_ID": "100",
+      "FIRST_NAME": "Steven",
+      "LAST_NAME": "King",
+      "PHONE_NUMBER": "515.123.4567"
+    },
+    {
+      "EMPLOYEE_ID": "101",
+      "FIRST_NAME": "Neena",
+      "LAST_NAME": "Kochhar",
+      "PHONE_NUMBER": "515.123.4568"
+    },
+    {
+      "EMPLOYEE_ID": "102",
+      "FIRST_NAME": "Lex",
+      "LAST_NAME": "De Haan",
+      "PHONE_NUMBER": "515.123.4569"
+    }
+  ]
+}
