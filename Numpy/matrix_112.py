@@ -1,0 +1,10 @@
+import numpy as np
+m= np.arange(1,7).reshape((3, 2))
+print("Original matrix:")
+print(m)
+res = m.max()
+print("Maximum value in the matrix:",res)
+result = m.min()
+print("Minimum value in the matrix:",result)
+print("Number of rows and columns of the said matrix:")
+print(m.shape)
