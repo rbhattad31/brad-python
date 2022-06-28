@@ -1,0 +1,14 @@
+{
+    "": {
+        "emp_name": "",
+        "designation": "",
+        "salary": "",
+        "age": ""
+    },
+    "Anish": {
+        "emp_name": "Anish",
+        "designation": "Bot Developer",
+        "salary": "30000",
+        "age": "25"
+    }
+}
