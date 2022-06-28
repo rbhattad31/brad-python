@@ -1,0 +1,10 @@
+import numpy as np
+arr_1 = np.array([-1.8, -1.6, -0.5, 0.5, 1.6, 1.8, 3.0])
+print("Original array:")
+print(arr_1)
+print("Floor values of the  array elements:")
+print(np.floor(arr_1))
+print("Ceil values of the  array elements:")
+print(np.ceil(arr_1))
+print("Truncated values of the array elements:")
+print(np.trunc(arr_1))
