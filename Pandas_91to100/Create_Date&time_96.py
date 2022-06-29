@@ -1,0 +1,17 @@
+from datetime import datetime
+import pandas as pd
+print("Datetime object for Jan 11 2012:")
+print(pd.Timestamp('2012-01-15'))
+print("\nSpecific date and time of 9:20 pm")
+print(pd.Timestamp('09:20'))
+print("\nLocal date and time:")
+d_wo_t = pd.Timestamp.now()
+print(d_wo_t)
+print("\nA date without time: ")
+print(d_wo_t.date())
+print("\nCurrent date:")
+print(datetime.now().date())
+print("\nTime from a datetime:")
+print(datetime.time(datetime(2012, 12, 15, 18, 12)))
+print("\nCurrent local time:")
+print(d_wo_t.time())
