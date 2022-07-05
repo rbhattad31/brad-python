@@ -11,4 +11,3 @@ if __name__ == '__main__':
 
         print("");
 
-# This code is contributed by 29AjayKumar
