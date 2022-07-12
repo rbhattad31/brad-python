@@ -1,0 +1,3 @@
+This Python program asks from user to enter the name of file and
+then asks to enter the text (in one or more lines) to append it to
+the given file as shown in the program given here
