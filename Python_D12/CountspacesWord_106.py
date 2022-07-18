@@ -16,3 +16,4 @@ for line in file:
 file.close()
 
 print("lines:", number_of_lines, "words:", number_of_words, "characters:", number_of_characters, "spaces:", number_of_spaces)
+
