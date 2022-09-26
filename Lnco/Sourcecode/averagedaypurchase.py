@@ -293,6 +293,14 @@ def average_day_purchase(in_config):
         body_ = in_config['KeyError']
         send_mail(to_, cc_, subject_, body_)
 
+    except ValueError:
+        print("Check if the column data values are empty and also"
+              "the excel file could have no data or one of the column data is empty")
+        print("Sending notification through outlook mail...")
+        subject_ = 'Excel file has empty values'
+        body_ = in_config['ValueError']
+        send_mail(to_, cc_, subject_, body_)
+
     except TypeError:
         print('Type error occurred')
         print("Sending notification through outlook mail...")
